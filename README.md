@@ -1,28 +1,56 @@
-# Merhaba, ben Fatma Nur Akbaş 👋
+# Hi there 👋 I'm Fatma Nur Akbaş
 
-İstanbul Sağlık ve Teknoloji Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Güvenli, ölçeklenebilir backend sistemleri tasarlamaya ve yapay zeka entegrasyonlu (RAG, görüntü işleme ve veri analitiği) uygulamalar geliştirmeye odaklanıyorum.
+<div align="center">
+
+### Computer Engineer | AI Engineer | Backend Developer
+
+Building intelligent systems with Artificial Intelligence, LLMs, RAG and Backend Technologies.
+
+</div>
 
 ---
 
-## 🛠 Teknolojiler ve Araçlar (Tech Stack)
+## 👩‍💻 About Me
 
-### Yazılım Dilleri
+🎓 Computer Engineering Graduate
+
+💻 Passionate about Artificial Intelligence, Machine Learning and Backend Development.
+
+I enjoy building scalable backend systems and AI-powered applications using modern technologies such as FastAPI, Docker, LLMs and Microservices.
+
+My current interests include
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚕️ AI for Healthcare
+- ☁️ Microservice Architecture
+- 📊 Machine Learning
+- 🚀 Backend Development
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
-![C#](https://skillicons.dev/icons?i=cs)
 ![Java](https://skillicons.dev/icons?i=java)
+![CS](https://skillicons.dev/icons?i=cs)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML/CSS](https://skillicons.dev/icons?i=html,css)
 
-### Backend & DevOps
+---
 
-![DotNet](https://skillicons.dev/icons?i=dotnet)
+### Backend
+
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Git](https://skillicons.dev/icons?i=git)
 
-### Veri Tabanları
+---
+
+### Databases
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -30,39 +58,145 @@
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
+### AI / ML
 
-### 🤖 Hibevia — Yapay Zeka Destekli KOBİ Teşvik & Destek Sistemi
-*Mezuniyet Projesi*
-- Resmi devlet destek ve teşvik dökümanlarını işleyen, web kazıma ve veri ön işleme servislerine sahip bir yapı kurdum.
-- Qdrant vektör veri tabanı ve LlamaIndex tabanlı bir **Retrieval-Augmented Generation (RAG)** hattı geliştirerek, kullanıcı sorularına bağlama uygun yanıtlar üreten bir sistem tasarladım.
-- **Teknolojiler:** Python, FastAPI, LlamaIndex, Qdrant, Docker, OpenAI API.
-- [🔗 Proje Raporu (PDF)](https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view?usp=sharing) | [💻 Kaynak Kodları](https://github.com/mihrinurilunt/tesvik_destek)
-
-### 🏥 Yapay Zeka Destekli Klinik Karar Destek Sistemi
-- Laboratuvar bulguları ve demografik verileri değerlendirerek karaciğer hastalıkları (MAFLD, siroz vb.) risk tahmini yapan makine öğrenmesi modelleri geliştirdim.
-- Modellerin karar mekanizmalarını hekimler için anlaşılır kılmak amacıyla **SHAP (Explainable AI)** kullandım ve sesli komut destekli bir asistan entegre ettim.
-- **Teknolojiler:** Python, Scikit-learn, SHAP, LLM Chatbot, Web Speech API.
-
-### 🛒 MultiShop — E-Ticaret Mikroservis Uygulaması
-- Ürün, sipariş ve kullanıcı yönetimi gibi fonksiyonların bağımsız servisler olarak çalıştığı, Docker ile konteynerize edilmiş bir backend yapısı kurguladım.
-- İlişkisel veriler için PostgreSQL, esnek doküman depolama için ise MongoDB kullanarak hibrit bir veri tabanı stratejisi uyguladım.
-- **Teknolojiler:** .NET Core, Microservices, Docker, PostgreSQL, MongoDB, Postman.
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-Learn
+- YOLOv8
+- OpenAI API
+- LangChain
+- LlamaIndex
+- Qdrant
+- SHAP
+- RAG Pipelines
 
 ---
 
-## 💼 Deneyim & Gönüllülük
+## 🚀 Featured Projects
 
-- **Fatih Belediyesi (Yazılım Mühendisliği Stajyeri — 2025):** ASP.NET Core ile RESTful API'lerin geliştirilmesinde, SQL Server veri tabanı yönetiminde ve mikroservis yapılarının Docker ortamında test edilmesinde rol aldım.
-- **IEEE ISTUN Student Branch (Vice Chair — 2024-2025):** Teknik etkinliklerin koordinasyonunu üstlendim ve topluluk içi projeleri organize ettim.
-- **Yazılım Mentorluğu (2024-2025):** Alt sınıf öğrencilerine projelerinde ve yazılım döngülerinde (SDLC) mentorluk desteği verdim.
+### 🏢 AI-Powered Government Incentive Recommendation System
+
+An intelligent platform developed with Microservice Architecture.
+
+**Technologies**
+
+- FastAPI
+- Python
+- OpenAI
+- RAG
+- LlamaIndex
+- Qdrant
+- Docker
+
+Features
+
+- Intent Detection
+- Recommendation Engine
+- Document Ingestion Pipeline
+- Semantic Search
+- Web Scraping
+- AI Explanation Generation
 
 ---
 
-## 📫 İletişim
+### 🏥 HepDecide
 
-Geliştirdiğim projelerle ilgileniyorsanız veya teknik konularda fikir alışverişinde bulunmak isterseniz bana aşağıdaki adreslerden ulaşabilirsiniz:
+Clinical Decision Support System powered by Explainable AI and Large Language Models.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmanurakbas/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ftmnrakb8585)
-[![E-Posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ftmnrakb8585@gmail.com)
+Highlights
+
+- Machine Learning Models
+- SHAP Explainability
+- LLM-based Clinical Assistant
+- OCR Integration
+- Speech Recognition
+- Medical Guideline RAG
+
+---
+
+### 🛒 MultiShop Microservice
+
+Scalable E-Commerce backend built with .NET Microservices.
+
+- Docker
+- PostgreSQL
+- MongoDB
+- REST API
+- Microservices
+
+---
+
+### 👕 AI Outfit Recommendation System
+
+Deep Learning based recommendation system using ResNet50.
+
+- TensorFlow
+- Streamlit
+- Computer Vision
+- Recommendation Engine
+
+---
+
+## 📚 Currently Learning
+
+- AI Agents
+- Multi-Agent Systems
+- LangGraph
+- MCP
+- Advanced RAG
+- Kubernetes
+- Azure AI
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurakbas&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=fatmanurakbas&theme=tokyonight)
+
+---
+
+## ✍️ Latest Interests
+
+- Artificial Intelligence
+- Machine Learning
+- LLM Applications
+- RAG Systems
+- Explainable AI
+- Healthcare AI
+- Backend Engineering
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email**
+
+ftmnrakb8585@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/fatmanurakbas
+
+✍️ **Medium**
+
+https://medium.com/@ftmnrakb8585
+
+🌐 **GitHub**
+
+https://github.com/fatmanurakbas
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+Let's build intelligent software together 🚀
+
+</div>
