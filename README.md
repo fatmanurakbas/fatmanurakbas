@@ -165,33 +165,42 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
+
 ## Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/fatmanurakbas" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
-</a>
-
-&nbsp;&nbsp;
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="mailto:ftmnrakb8585@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="60" />
+<img src="https://skillicons.dev/icons?i=gmail" width="60" />
 </a>
+</td>
 
-&nbsp;&nbsp;
+<td width="30"></td>
 
-<a href="https://medium.com/@ftmnrakb8585" target="_blank">
-  <img src="https://cdn.simpleicons.org/medium/ffffff" width="60" />
+<td align="center">
+<a href="https://linkedin.com/in/fatmanurakbas">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60" />
 </a>
+</td>
 
-&nbsp;&nbsp;
+<td width="30"></td>
 
-<a href="https://github.com/fatmanurakbas" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="60" />
+<td align="center">
+<a href="https://medium.com/@ftmnrakb8585">
+<img src="https://cdn.simpleicons.org/medium/ffffff" width="60" />
 </a>
+</td>
 
-</p>
+<td width="30"></td>
+
+<td align="center">
+<a href="https://github.com/fatmanurakbas">
+<img src="https://skillicons.dev/icons?i=github" width="60" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
