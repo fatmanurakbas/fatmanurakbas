@@ -165,6 +165,30 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:ftmnrakb8585@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/fatmanurakbas">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@ftmnrakb8585">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://github.com/fatmanurakbas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 # Benimle İletişime Geç
 
 <p align="center">
@@ -186,24 +210,6 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 </a>
 
 </p>
-
----
-
-
-## Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/fatmanurakbas">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:ftmnrakb8585@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
-</a>
-</p>
-
 
 ---
 
