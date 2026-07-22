@@ -3,53 +3,44 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4F8CC9&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Backend+Developer;LLM+Developer;RAG+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4F8CC9&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Backend+Developer;LLM+Developer;RAG+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-
-Yapay zekâ, büyük dil modelleri (LLM), RAG sistemleri ve backend teknolojileri üzerine çalışan bir bilgisayar mühendisiyim.
-
-Gerçek problemlere çözüm üreten, ölçeklenebilir ve yapay zekâ destekli uygulamalar geliştirmeyi seviyorum.
-
+Bilgisayar mühendisiyim. Yapay zekâ, büyük dil modelleri (LLM), Retrieval-Augmented Generation (RAG), makine öğrenmesi ve backend teknolojileri üzerine çalışıyorum. Ölçeklenebilir, üretime hazır ve gerçek problemlere çözüm sunan yapay zekâ uygulamaları geliştirmeyi hedefliyorum.
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=fatmanurakbas&style=for-the-badge&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=fatmanurakbas&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-# 👩‍💻 Hakkımda
+# Hakkımda
 
-🎓 Bilgisayar Mühendisiyim.
+- Bilgisayar Mühendisiyim.
+- Yapay zekâ ve backend geliştirme alanlarında çalışıyorum.
+- İlgi alanlarım:
+  - Artificial Intelligence
+  - Large Language Models (LLM)
+  - Retrieval-Augmented Generation (RAG)
+  - FastAPI
+  - Microservices
+  - AI for Healthcare
+  - Machine Learning
+  - Docker
 
-💡 Özellikle aşağıdaki alanlarda çalışıyorum.
-
-- 🤖 Artificial Intelligence
-- 🧠 Large Language Models (LLM)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- ☁️ Microservices
-- 🏥 AI for Healthcare
-- 📊 Machine Learning
-- 🐳 Docker
-
-📝 Öğrendiklerimi Medium üzerinden teknik yazılar yazarak paylaşmayı seviyorum.
+Teknik konularda araştırma yapmayı ve öğrendiklerimi Medium üzerinde yazılar yazarak paylaşmayı seviyorum.
 
 ---
 
-# 💻 Teknoloji Stack'im
+# Teknoloji Stack'im
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,javascript,postgres,mongodb,firebase,docker,git,github,vscode,linux&perline=7"/>
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,javascript,postgres,mongodb,firebase,docker,git,github,vscode,linux&perline=7"/>
 </p>
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 
 - OpenAI API
 - LangChain
@@ -63,15 +54,15 @@ Gerçek problemlere çözüm üreten, ölçeklenebilir ve yapay zekâ destekli u
 
 ---
 
-# 🚀 Öne Çıkan Projeler
+# Öne Çıkan Projeler
 
-## 🏢 Hibevia
+## Hibevia
 
-### Yapay Zekâ Destekli Devlet Teşvik Öneri Sistemi
+**Yapay Zekâ Destekli Devlet Teşvik Öneri Sistemi**
 
 **Teknolojiler**
 
-`Python` • `FastAPI` • `OpenAI` • `RAG` • `Qdrant` • `Docker`
+Python • FastAPI • OpenAI • RAG • Qdrant • Docker
 
 **Özellikler**
 
@@ -81,19 +72,19 @@ Gerçek problemlere çözüm üreten, ölçeklenebilir ve yapay zekâ destekli u
 - RAG Architecture
 - AI Recommendation Engine
 
-📄 Proje Dokümanı
+📄 **Proje Dokümanı**
 
 https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-## 🏥 HepDecide
+## HepDecide
 
-### Explainable AI Destekli Klinik Karar Destek Sistemi
+**Explainable AI Destekli Klinik Karar Destek Sistemi**
 
 **Teknolojiler**
 
-`Python` • `Machine Learning` • `SHAP` • `LLM`
+Python • Machine Learning • SHAP • LLM
 
 **Özellikler**
 
@@ -106,13 +97,13 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-## 🛒 MultiShop
+## MultiShop
 
-### Mikroservis Tabanlı E-Ticaret Backend Sistemi
+**Mikroservis Tabanlı E-Ticaret Backend Sistemi**
 
 **Teknolojiler**
 
-`.NET Core` • `Docker` • `PostgreSQL` • `MongoDB`
+.NET Core • Docker • PostgreSQL • MongoDB
 
 **Özellikler**
 
@@ -124,11 +115,11 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-## 👕 AI Outfit Recommendation System
+## AI Outfit Recommendation System
 
 **Teknolojiler**
 
-`TensorFlow` • `ResNet50` • `Streamlit`
+TensorFlow • ResNet50 • Streamlit
 
 **Özellikler**
 
@@ -138,7 +129,7 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-# 🌱 Şu Anda Öğreniyorum
+# Şu Anda Öğreniyorum
 
 - AI Agents
 - Multi-Agent Systems
@@ -150,82 +141,71 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-# 📈 GitHub Activity
+# GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatmanurakbas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🏆 GitHub Başarıları
+# GitHub Başarıları
 
-> GitHub Trophy, bir sonraki adımda GitHub Actions kurulumu tamamlandıktan sonra aktif olacaktır.
+GitHub Trophy, GitHub Actions kurulumu tamamlandıktan sonra otomatik olarak görüntülenecektir.
 
 ---
 
-# 📝 Son Medium Yazılarım
+# Son Medium Yazılarım
 
-> Son Medium yazılarım GitHub Actions ile otomatik olarak burada listelenecek.
+Son Medium yazılarım GitHub Actions ile otomatik olarak burada listelenecektir.
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG mı Fine-Tuning mi? Gerçek Projelerde Hangisini Kullanmalıyız?](https://medium.com/@ftmnrakb8585/rag-m%C4%B1-fine-tuning-mi-ger%C3%A7ek-projelerde-hangisini-kullanmal%C4%B1y%C4%B1z-ce81aec0e429?source=rss-fd0381e5b104------2)
-- [Bir Backend Projesini Baştan Sona Dockerize Ettim: DevOps Dünyasına İlk Adımım](https://medium.com/@ftmnrakb8585/bir-backend-projesini-ba%C5%9Ftan-sona-dockerize-ettim-devops-d%C3%BCnyas%C4%B1na-i%CC%87lk-ad%C4%B1m%C4%B1m-4e6e3bb96598?source=rss-fd0381e5b104------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-# 📫 Benimle İletişime Geç
+# İletişim
 
 <p align="center">
+  <a href="mailto:ftmnrakb8585@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:ftmnrakb8585@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/fatmanurakbas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/fatmanurakbas">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://medium.com/@ftmnrakb8585">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 
-<a href="https://medium.com/@ftmnrakb8585">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://github.com/fatmanurakbas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/fatmanurakbas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🐍 Katkı Grafiğim
+# Katkı Grafiğim
 
 <p align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake"
-       src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg">
 </picture>
-
 </p>
 
 ---
 
 <p align="center">
 
-💙 Profilimi ziyaret ettiğiniz için teşekkür ederim.
-
-Yapay zekâ, backend geliştirme ve açık kaynak projeleri üzerine çalışmayı seviyorum.
+Yapay zekâ, backend geliştirme ve açık kaynak projeleri üzerine çalışıyorum.
 
 Yeni projeler geliştirmek, bilgi paylaşmak ve birlikte üretmek için benimle iletişime geçebilirsiniz.
 
-⭐ Eğer profilimi beğendiyseniz takip etmeyi ve projelerime göz atmayı unutmayın.
+Profilimi ziyaret ettiğiniz için teşekkür ederim.
 
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=gradient"/>
 </p>
