@@ -189,25 +189,21 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-## 📫 Connect with Me
 
-📧 **Email**
+## Connect With Me
 
-ftmnrakb8585@gmail.com
+<p align="center">
+<a href="https://linkedin.com/in/fatmanurakbas">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
 
-💼 **LinkedIn**
+&nbsp;&nbsp;
 
-https://linkedin.com/in/fatmanurakbas
+<a href="mailto:ftmnrakb8585@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+</a>
+</p>
 
-✍️ **Medium**
-
-https://medium.com/@ftmnrakb8585
-
-🌐 **GitHub**
-
-https://github.com/fatmanurakbas
-
----
 
 ---
 
