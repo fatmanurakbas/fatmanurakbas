@@ -1,42 +1,42 @@
-# Hi there 👋 I'm Fatma Nur Akbaş
+# Merhaba 👋 Ben Fatma Nur Akbaş
 
 <div align="center">
 
-### Computer Engineer | AI Engineer | Backend Developer
+### Bilgisayar Mühendisi | Yapay Zeka Mühendisi | Backend Geliştirici
 
-Building intelligent systems with Artificial Intelligence, LLMs, RAG and Backend Technologies.
+Yapay Zeka, Büyük Dil Modelleri (LLM), RAG ve Backend Teknolojileri ile akıllı sistemler geliştiriyorum.
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Hakkımda
 
-🎓 Computer Engineering Graduate
+🎓 Bilgisayar Mühendisliği Bölümü Öğrencisi (Mezun Adayı)
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Backend Development.
+💻 Yapay Zeka, Makine Öğrenmesi ve Backend Geliştirme süreçlerine ilgi duyuyorum.
 
-I enjoy building scalable backend systems and AI-powered applications using modern technologies such as FastAPI, Docker, LLMs and Microservices.
+FastAPI, Docker, LLM'ler ve Mikroservisler gibi modern teknolojileri kullanarak ölçeklenebilir backend sistemleri ve yapay zeka destekli uygulamalar geliştirmekten keyif alıyorum.
 
-My current interests include
+Güncel çalışma ve ilgi alanlarım:
 
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚕️ AI for Healthcare
-- ☁️ Microservice Architecture
-- 📊 Machine Learning
-- 🚀 Backend Development
+- 🤖 Üretken Yapay Zeka (Generative AI)
+- 🧠 Büyük Dil Modelleri (LLMs)
+- 🔍 Alıntılama Destekli Üretim (RAG)
+- ⚕️ Sağlık Sektöründe Yapay Zeka (AI for Healthcare)
+- ☁️ Mikroservis Mimarisi
+- 📊 Makine Öğrenmesi
+- 🚀 Backend Geliştirme
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Teknolojiler ve Araçlar
 
-### Languages
+### Programlama Dilleri
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
-![CS](https://skillicons.dev/icons?i=cs)
+![C#](https://skillicons.dev/icons?i=cs)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ---
@@ -50,7 +50,7 @@ My current interests include
 
 ---
 
-### Databases
+### Veri Tabanları
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -58,100 +58,82 @@ My current interests include
 
 ---
 
-### AI / ML
+### Yapay Zeka / Makine Öğrenmesi
 
-- Machine Learning
-- Deep Learning
-- TensorFlow
+- Makine Öğrenmesi (Machine Learning)
+- Derin Öğrenme (Deep Learning)
+- TensorFlow / Keras
 - Scikit-Learn
 - YOLOv8
 - OpenAI API
-- LangChain
 - LlamaIndex
-- Qdrant
-- SHAP
-- RAG Pipelines
+- Qdrant Vektör Veri Tabanı
+- SHAP (Açıklanabilir Yapay Zeka)
+- RAG Pipelines (Retrieval-Augmented Generation)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Öne Çıkan Projelerim
 
-### 🏢 AI-Powered Government Incentive Recommendation System
+### 🏢 Hibevia - Yapay Zeka Destekli Devlet Teşvik Öneri Sistemi
+Mikroservis mimarisi üzerine kurulu, yapay zeka destekli akıllı bir teşvik ve destek platformu.
 
-An intelligent platform developed with Microservice Architecture.
+**Teknolojiler**
+- FastAPI, Python, OpenAI, RAG, LlamaIndex, Qdrant, Docker
 
-**Technologies**
-
-- FastAPI
-- Python
-- OpenAI
-- RAG
-- LlamaIndex
-- Qdrant
-- Docker
-
-Features
-
-- Intent Detection
-- Recommendation Engine
-- Document Ingestion Pipeline
-- Semantic Search
-- Web Scraping
-- AI Explanation Generation
+**Öne Çıkan Özellikler**
+- **Niyet Tespiti (Intent Detection):** Kullanıcı taleplerini sınıflandırarak doğru yapay zeka iş akışına yönlendiren modül.
+- **Döküman İşleme Hattı (Document Ingestion Pipeline):** Resmi teşvik belgelerini işleyen, bölümlere ayıran (chunking) ve Qdrant üzerinde indeksleyen yapı.
+- **Semantik Arama:** Qdrant vektör veri tabanı entegrasyonu ile anlamsal döküman eşleştirme.
+- **Akıllı Teşvik Eşleştirme:** Uygun teşvik programlarını belirleyen ve RAG tabanlı gerekçeli açıklamalar üreten öneri motoru.
+- [🔗 Proje Raporu (PDF)](https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view?usp=sharing)
 
 ---
 
-### 🏥 HepDecide
+### 🏥 HepDecide - Klinik Karar Destek Sistemi
+Açıklanabilir Yapay Zeka (XAI) ve Büyük Dil Modelleri ile güçlendirilmiş klinik karar destek uygulaması.
 
-Clinical Decision Support System powered by Explainable AI and Large Language Models.
-
-Highlights
-
-- Machine Learning Models
-- SHAP Explainability
-- LLM-based Clinical Assistant
-- OCR Integration
-- Speech Recognition
-- Medical Guideline RAG
+**Öne Çıkan Özellikler**
+- **Risk Tahmini:** Laboratuvar bulguları ve demografik verileri kullanarak MAFLD, siroz ve HCC risklerini tahmin eden makine öğrenmesi modelleri.
+- **Açıklanabilir Yapay Zeka (XAI):** SHAP entegrasyonu ile model tahminlerini hekimler için doğrulanabilir kılma.
+- **Klinik Sohbet Robotu:** Tıbbi yönergelere ve sonuç analizine dayalı RAG tabanlı LLM asistanı.
+- **Veri Giriş Kolaylığı:** Sesli komut (Web Speech API) ve OCR (Optik Karakter Tanıma) entegrasyonları.
+- **Teknolojiler:** Python, ML, SHAP, LLM, Web Speech API, OCR
 
 ---
 
-### 🛒 MultiShop Microservice
+### 🛒 MultiShop - Mikroservis Tabanlı E-Ticaret Sistemi
+.NET Core ve mikroservis mimarisi kullanılarak geliştirilmiş ölçeklenebilir e-ticaret backend sistemi.
 
-Scalable E-Commerce backend built with .NET Microservices.
-
-- Docker
-- PostgreSQL
-- MongoDB
-- REST API
-- Microservices
-
----
-
-### 👕 AI Outfit Recommendation System
-
-Deep Learning based recommendation system using ResNet50.
-
-- TensorFlow
-- Streamlit
-- Computer Vision
-- Recommendation Engine
+**Öne Çıkan Özellikler**
+- **Mikroservis Mimarisi:** Ürün, kullanıcı ve sipariş yönetim servislerinin bağımsız servisler olarak kurgulanması.
+- **Konteynerizasyon:** Docker ortamında servis yönetimi ve çevre tutarlılığı.
+- **Hibrit Veri Tabanı:** Projenin gereksinimlerine göre PostgreSQL ve MongoDB kullanımı.
+- **Teknolojiler:** .NET Core, Microservices, Docker, PostgreSQL, MongoDB, Postman, C#, REST API
 
 ---
 
-## 📚 Currently Learning
+### 👕 Yapay Zeka Destekli Kıyafet Öneri Sistemi
+ResNet50 derin öğrenme mimarisi kullanılarak geliştirilmiş görsel benzerlik tabanlı öneri sistemi.
 
-- AI Agents
-- Multi-Agent Systems
-- LangGraph
-- MCP
-- Advanced RAG
-- Kubernetes
-- Azure AI
+**Öne Çıkan Özellikler**
+- **Derin Öğrenme Modeli:** Polyvore veri seti üzerinde eğitilmiş ResNet50 modeli ile görsel özellik çıkarımı.
+- **Öneri Motoru:** Benzer ürünleri analiz ederek kullanıcılara alternatif ve tamamlayıcı kombinler sunan yapı.
+- **Web Arayüzü:** Streamlit kullanılarak geliştirilmiş, gerçek zamanlı görsel yükleme ve test arayüzü.
+- **Teknolojiler:** Python, TensorFlow, Keras, ResNet50, Streamlit, Scikit-learn
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Şu Anda Öğrendiklerim
+
+- Yapay Zeka Ajanları (AI Agents) & Çoklu Ajan Sistemleri (Multi-Agent Systems)
+- LangGraph ve MCP (Model Context Protocol)
+- İleri Düzey RAG Teknikleri (Advanced RAG)
+- Kubernetes & Azure AI
+
+---
+
+## 📈 GitHub İstatistikleri
 
 ![](https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight)
 
@@ -161,42 +143,37 @@ Deep Learning based recommendation system using ResNet50.
 
 ---
 
-## ✍️ Latest Interests
+## ✍️ Güncel İlgi Alanlarım
 
-- Artificial Intelligence
-- Machine Learning
-- LLM Applications
-- RAG Systems
-- Explainable AI
-- Healthcare AI
-- Backend Engineering
+- Yapay Zeka ve Makine Öğrenmesi Uygulamaları
+- LLM (Büyük Dil Modeli) Tabanlı Uygulama Geliştirme
+- RAG (Retrieval-Augmented Generation) Sistemleri
+- Açıklanabilir Yapay Zeka (Explainable AI)
+- Sağlık Sektöründe Yapay Zeka Çözümleri
+- Backend ve Mikroservis Mühendisliği
 
 ---
 
-## 📫 Connect with Me
+## 📫 Benimle İletişime Geçin
 
-📧 **Email**
-
-ftmnrakb8585@gmail.com
+📧 **E-posta**
+[ftmnrakb8585@gmail.com](mailto:ftmnrakb8585@gmail.com)
 
 💼 **LinkedIn**
+[linkedin.com/in/fatmanurakbas](https://linkedin.com/in/fatmanurakbas)
 
-https://linkedin.com/in/fatmanurakbas
-
-✍️ **Medium**
-
-https://medium.com/@ftmnrakb8585
+✍ Cordial **Medium**
+[medium.com/@ftmnrakb8585](https://medium.com/@ftmnrakb8585)
 
 🌐 **GitHub**
-
-https://github.com/fatmanurakbas
+[github.com/fatmanurakbas](https://github.com/fatmanurakbas)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### Profilimi ziyaret ettiğiniz için teşekkür ederim! ⭐
 
-Let's build intelligent software together 🚀
+Birlikte akıllı sistemler inşa edelim 🚀
 
 </div>
