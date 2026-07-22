@@ -165,6 +165,18 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
+# 📈 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatmanurakbas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Başarıları
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fatmanurakbas&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 # 📝 Son Medium Yazılarım
 
 <!-- BLOG-POST-LIST:START -->
