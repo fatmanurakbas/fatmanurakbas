@@ -1,181 +1,189 @@
-# Hi there 👋 I'm Fatma Nur Akbaş
+<h1 align="center">Merhaba, ben Fatma Nur Akbaş 👋</h1>
 
-<div align="center">
+<h3 align="center">
+Bilgisayar Mühendisi | Yapay Zekâ Geliştiricisi | Backend Developer
+</h3>
 
-### Computer Engineer | AI Engineer | Backend Developer
-
-Building intelligent systems with Artificial Intelligence, LLMs, RAG and Backend Technologies.
-
-</div>
+<p align="center">
+Yapay zekâ, makine öğrenmesi ve backend geliştirme alanlarında kendimi geliştirmeye devam ediyor, gerçek problemlere çözüm üreten projeler geliştiriyorum.
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Hakkımda
 
-🎓 Computer Engineering Graduate
+🎓 Bilgisayar Mühendisliği mezunuyum.
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Backend Development.
+💡 Özellikle **Yapay Zekâ**, **LLM (Large Language Models)**, **Retrieval-Augmented Generation (RAG)**, **Backend Geliştirme** ve **Mikroservis Mimarisi** üzerine çalışıyorum.
 
-I enjoy building scalable backend systems and AI-powered applications using modern technologies such as FastAPI, Docker, LLMs and Microservices.
+🚀 Ölçeklenebilir backend sistemleri geliştirirken yapay zekâ teknolojilerini gerçek projelere entegre etmeyi seviyorum.
 
-My current interests include
+📚 Medium'da yapay zekâ üzerine teknik içerikler üretiyor ve öğrendiklerimi paylaşmayı önemsiyorum.
 
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
+---
+
+# 🚀 İlgi Alanlarım
+
+- 🤖 Yapay Zekâ
+- 🧠 Büyük Dil Modelleri (LLM)
 - 🔍 Retrieval-Augmented Generation (RAG)
-- ⚕️ AI for Healthcare
-- ☁️ Microservice Architecture
-- 📊 Machine Learning
-- 🚀 Backend Development
+- 🏥 Sağlık Alanında Yapay Zekâ
+- 📊 Makine Öğrenmesi
+- ⚙️ Backend Geliştirme
+- ☁️ Mikroservis Mimarisi
+- 🐳 Docker
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Kullandığım Teknolojiler
 
-### Languages
+### Programlama Dilleri
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![CS](https://skillicons.dev/icons?i=cs)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
----
+- Python
+- C#
+- Java
+- JavaScript
+- HTML & CSS
 
 ### Backend
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
+- FastAPI
+- ASP.NET Core
+- REST API
+- Mikroservis Mimarisi
+- JWT Authentication
 
----
+### Veritabanları
 
-### Databases
+- PostgreSQL
+- SQL Server
+- MongoDB
+- Firebase
+- Qdrant
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+### Yapay Zekâ
 
----
-
-### AI / ML
-
-- Machine Learning
-- Deep Learning
-- TensorFlow
 - Scikit-Learn
+- TensorFlow
 - YOLOv8
 - OpenAI API
 - LangChain
 - LlamaIndex
-- Qdrant
 - SHAP
-- RAG Pipelines
+- RAG
+
+### Araçlar
+
+- Docker
+- Git
+- GitHub
+- Postman
+- VS Code
 
 ---
 
-## 🚀 Featured Projects
+# 📌 Öne Çıkan Projeler
 
-### 🏢 AI-Powered Government Incentive Recommendation System
+## 🏢 Yapay Zekâ Destekli KOBİ Teşvik ve Destek Sistemi
 
-An intelligent platform developed with Microservice Architecture.
+Mikroservis mimarisi kullanılarak geliştirilen yapay zekâ destekli karar destek sistemi.
 
-**Technologies**
+### Kullanılan Teknolojiler
 
-- FastAPI
 - Python
+- FastAPI
 - OpenAI
 - RAG
 - LlamaIndex
 - Qdrant
 - Docker
 
-Features
+### Özellikler
 
+- RAG Pipeline
 - Intent Detection
-- Recommendation Engine
-- Document Ingestion Pipeline
+- Belge İşleme Servisi
 - Semantic Search
 - Web Scraping
-- AI Explanation Generation
+- AI Destekli Teşvik Önerisi
 
 ---
 
-### 🏥 HepDecide
+## 🏥 HepDecide
 
-Clinical Decision Support System powered by Explainable AI and Large Language Models.
+Yapay zekâ destekli Klinik Karar Destek Sistemi.
 
-Highlights
+### Özellikler
 
-- Machine Learning Models
-- SHAP Explainability
-- LLM-based Clinical Assistant
-- OCR Integration
-- Speech Recognition
-- Medical Guideline RAG
+- Makine Öğrenmesi Modelleri
+- SHAP ile Açıklanabilir Yapay Zekâ
+- LLM Destekli Klinik Chatbot
+- OCR
+- Speech API
+- Medikal RAG Sistemi
 
 ---
 
-### 🛒 MultiShop Microservice
+## 🛒 MultiShop Mikroservis Projesi
 
-Scalable E-Commerce backend built with .NET Microservices.
+.NET tabanlı mikroservis mimarisi kullanılarak geliştirilen e-ticaret sistemi.
 
 - Docker
 - PostgreSQL
 - MongoDB
 - REST API
-- Microservices
+- Mikroservisler
 
 ---
 
-### 👕 AI Outfit Recommendation System
+## 👕 Yapay Zekâ Destekli Kombin Öneri Sistemi
 
-Deep Learning based recommendation system using ResNet50.
+Derin öğrenme tabanlı öneri sistemi.
 
 - TensorFlow
+- ResNet50
 - Streamlit
-- Computer Vision
-- Recommendation Engine
+- Bilgisayarlı Görü
 
 ---
 
-## 📚 Currently Learning
+# 📚 Şu An Öğreniyorum
 
-- AI Agents
-- Multi-Agent Systems
+- AI Agent Sistemleri
+- Multi-Agent Mimarileri
 - LangGraph
 - MCP
-- Advanced RAG
+- Gelişmiş RAG Sistemleri
 - Kubernetes
 - Azure AI
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub İstatistiklerim
 
-![](https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurakbas&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurakbas&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=fatmanurakbas&theme=tokyonight)
-
----
-
-## ✍️ Latest Interests
-
-- Artificial Intelligence
-- Machine Learning
-- LLM Applications
-- RAG Systems
-- Explainable AI
-- Healthcare AI
-- Backend Engineering
+![GitHub Streak](https://streak-stats.demolab.com?user=fatmanurakbas&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
+# ✍️ İçerik Ürettiğim Konular
 
-📧 **Email**
+- Yapay Zekâ
+- LLM
+- RAG
+- Prompt Engineering
+- Makine Öğrenmesi
+- Backend Geliştirme
+- Mikroservis Mimarisi
+
+---
+
+# 📫 Bana Ulaşın
+
+📧 **E-posta**
 
 ftmnrakb8585@gmail.com
 
@@ -187,7 +195,7 @@ https://linkedin.com/in/fatmanurakbas
 
 https://medium.com/@ftmnrakb8585
 
-🌐 **GitHub**
+💻 **GitHub**
 
 https://github.com/fatmanurakbas
 
@@ -195,8 +203,8 @@ https://github.com/fatmanurakbas
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### 💙 Profilimi ziyaret ettiğiniz için teşekkür ederim.
 
-Let's build intelligent software together 🚀
+Yapay zekâ, backend geliştirme ve yazılım projeleri üzerine birlikte çalışmak veya iletişime geçmek isterseniz bana ulaşabilirsiniz. 🚀
 
 </div>
