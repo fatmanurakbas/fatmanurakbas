@@ -24,9 +24,9 @@ Gerçek problemlere çözüm üreten, ölçeklenebilir ve yapay zekâ destekli u
 
 # 👩‍💻 Hakkımda
 
-🎓 Bilgisayar Mühendisiyim.
+Bilgisayar Mühendisiyim.
 
-💡 Özellikle aşağıdaki alanlarda çalışıyorum.
+Özellikle aşağıdaki alanlarda çalışıyorum.
 
 - 🤖 Artificial Intelligence
 - 🧠 Large Language Models (LLM)
@@ -36,9 +36,7 @@ Gerçek problemlere çözüm üreten, ölçeklenebilir ve yapay zekâ destekli u
 - 🏥 AI for Healthcare
 - 📊 Machine Learning
 - 🐳 Docker
-
-📝 Öğrendiklerimi Medium üzerinden teknik yazılar yazarak paylaşmayı seviyorum.
-
+  
 ---
 
 # 💻 Teknoloji Stack'im
@@ -81,7 +79,7 @@ Gerçek problemlere çözüm üreten, ölçeklenebilir ve yapay zekâ destekli u
 - RAG Architecture
 - AI Recommendation Engine
 
-📄 Proje Dokümanı
+Proje Dokümanı
 
 https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
