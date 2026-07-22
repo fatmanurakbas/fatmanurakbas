@@ -1,59 +1,68 @@
 # Merhaba, ben Fatma Nur Akbaş 👋
 
-İstanbul Sağlık ve Teknoloji Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend geliştirme, mikroservis mimarileri ve yapay zeka tabanlı sistemler üzerine çalışmalar yürütüyorum. Veri odaklı ve ölçeklenebilir sistemler tasarlamaya ve yeni teknolojileri öğrenmeye ilgi duyuyorum.
+İstanbul Sağlık ve Teknoloji Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Güvenli, ölçeklenebilir backend sistemleri tasarlamaya ve yapay zeka entegrasyonlu (RAG, görüntü işleme ve veri analitiği) uygulamalar geliştirmeye odaklanıyorum.
 
 ---
 
-### 💻 Çalışma Alanlarım ve İlgi Alanlarım
+## 🛠 Teknolojiler ve Araçlar (Tech Stack)
 
-- **Backend Geliştirme:** ASP.NET Core ve Python (FastAPI/Django) ekosistemlerinde RESTful API tasarımı, mikroservis mimarileri ve veri tabanı yönetimi.
-- **Yapay Zeka ve Veri Bilimi:** RAG (Retrieval-Augmented Generation) sistemleri, bilgisayarlı görü (YOLOv8, görüntü işleme) ve açıklanabilir yapay zeka (SHAP) uygulamaları.
-- **Bulut ve Altyapı:** Uygulamaların Docker ile konteynerizasyonu, CI/CD süreçleri ve ilişkisel/ilişkisel olmayan (SQL Server, PostgreSQL, MongoDB, Qdrant) veri tabanları.
+### Yazılım Dilleri
 
----
+![Python](https://skillicons.dev/icons?i=python)
+![C#](https://skillicons.dev/icons?i=cs)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML/CSS](https://skillicons.dev/icons?i=html,css)
 
-### 🛠️ Teknolojiler ve Araçlar
+### Backend & DevOps
 
-| Kategori | Teknolojiler |
-| :--- | :--- |
-| **Programlama Dilleri** | Python, C#, Java, JavaScript, HTML/CSS |
-| **Backend Geliştirme** | ASP.NET Core, Flask, Django, RESTful API, Microservices, JWT, Dapper |
-| **Veri Tabanları & Araçlar** | SQL Server, PostgreSQL, MongoDB, Qdrant, Firebase, Docker, Postman, Git/GitHub |
-| **Yapay Zeka & Veri Bilimi** | Makine Öğrenmesi, RAG (LlamaIndex), Scikit-learn, TensorFlow, YOLOv8, SHAP, Veri Analizi |
-| **Yabancı Dil** | İngilizce (A2) |
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Git](https://skillicons.dev/icons?i=git)
 
----
+### Veri Tabanları
 
-### 🚀 Öne Çıkan Projelerim
-
-#### 1. [Hibevia - Yapay Zeka Destekli KOBİ Teşvik & Destek Sistemi (Mezuniyet Projesi)](https://github.com/mihrinurilunt/tesvik_destek)
-- Resmi devlet teşvik belgelerini işleyen ve vektör veri tabanına (Qdrant) indeksleyen bir RAG (Retrieval-Augmented Generation) hattı tasarladım.
-- Kullanıcı sorularını sınıflandıran ve uygun teşvik programlarıyla eşleştirerek açıklama üreten yapay zeka motorunu geliştirdim.
-- **Teknolojiler:** Python, FastAPI, OpenAI, LlamaIndex, Qdrant, Docker, Git.
-
-#### 2. Klinik Karar Destek Sistemi
-- Laboratuvar ve demografik verileri analiz ederek MAFLD, siroz ve HCC risk tahminleri gerçekleştiren makine öğrenmesi modelleri eğittim.
-- Modellerin kararlarını daha anlaşılır kılmak için SHAP entegrasyonu sağladım ve LLM tabanlı bir klinik asistan ekledim.
-- **Teknolojiler:** Python, Scikit-learn, SHAP, LLM, Web Speech API, OCR.
-
-#### 3. [MultiShop - E-Ticaret Mikroservis Uygulaması](https://github.com/fatmanurakbas)
-- Ürün, kullanıcı ve sipariş yönetim süreçlerinin ayrı servisler olarak yönetildiği mikroservis mimarisine sahip bir backend sistemi kurdum.
-- PostgreSQL ve MongoDB kullanarak hibrit bir veri yapısı uyguladım ve tüm servisleri Docker üzerinde yapılandırdım.
-- **Teknolojiler:** .NET Core, Microservices, Docker, PostgreSQL, MongoDB, C#.
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ---
 
-### 👥 Topluluk ve Gönüllülük
+## 🚀 Öne Çıkan Projelerim
 
-- **IEEE ISTUN Öğrenci Kolu:** 2024 - 2025 yılları arasında Başkan Yardımcılığı görevini üstlenerek teknik etkinliklerin organizasyonunda ve topluluk yönetiminde rol aldım.
-- **Öğrenci Mentorluğu:** Alt sınıf öğrencilerine yazılım projelerinde teknik rehberlik sağlayarak yazılım geliştirme süreçlerine adaptasyonlarına destek oldum.
+### 🤖 Hibevia — Yapay Zeka Destekli KOBİ Teşvik & Destek Sistemi
+*Mezuniyet Projesi*
+- Resmi devlet destek ve teşvik dökümanlarını işleyen, web kazıma ve veri ön işleme servislerine sahip bir yapı kurdum.
+- Qdrant vektör veri tabanı ve LlamaIndex tabanlı bir **Retrieval-Augmented Generation (RAG)** hattı geliştirerek, kullanıcı sorularına bağlama uygun yanıtlar üreten bir sistem tasarladım.
+- **Teknolojiler:** Python, FastAPI, LlamaIndex, Qdrant, Docker, OpenAI API.
+- [🔗 Proje Raporu (PDF)](https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view?usp=sharing) | [💻 Kaynak Kodları](https://github.com/mihrinurilunt/tesvik_destek)
+
+### 🏥 Yapay Zeka Destekli Klinik Karar Destek Sistemi
+- Laboratuvar bulguları ve demografik verileri değerlendirerek karaciğer hastalıkları (MAFLD, siroz vb.) risk tahmini yapan makine öğrenmesi modelleri geliştirdim.
+- Modellerin karar mekanizmalarını hekimler için anlaşılır kılmak amacıyla **SHAP (Explainable AI)** kullandım ve sesli komut destekli bir asistan entegre ettim.
+- **Teknolojiler:** Python, Scikit-learn, SHAP, LLM Chatbot, Web Speech API.
+
+### 🛒 MultiShop — E-Ticaret Mikroservis Uygulaması
+- Ürün, sipariş ve kullanıcı yönetimi gibi fonksiyonların bağımsız servisler olarak çalıştığı, Docker ile konteynerize edilmiş bir backend yapısı kurguladım.
+- İlişkisel veriler için PostgreSQL, esnek doküman depolama için ise MongoDB kullanarak hibrit bir veri tabanı stratejisi uyguladım.
+- **Teknolojiler:** .NET Core, Microservices, Docker, PostgreSQL, MongoDB, Postman.
 
 ---
 
-### 📫 İletişim
+## 💼 Deneyim & Gönüllülük
 
-Benimle projeler, iş birlikleri veya teknik konular üzerine iletişime geçmek isterseniz aşağıdaki kanallardan ulaşabilirsiniz:
+- **Fatih Belediyesi (Yazılım Mühendisliği Stajyeri — 2025):** ASP.NET Core ile RESTful API'lerin geliştirilmesinde, SQL Server veri tabanı yönetiminde ve mikroservis yapılarının Docker ortamında test edilmesinde rol aldım.
+- **IEEE ISTUN Student Branch (Vice Chair — 2024-2025):** Teknik etkinliklerin koordinasyonunu üstlendim ve topluluk içi projeleri organize ettim.
+- **Yazılım Mentorluğu (2024-2025):** Alt sınıf öğrencilerine projelerinde ve yazılım döngülerinde (SDLC) mentorluk desteği verdim.
 
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/fatmanurakbas/)
-- 📝 [Medium Yazılarım](https://medium.com/@ftmnrakb8585)
-- 📧 [E-posta Gönder](mailto:ftmnrakb8585@gmail.com)
+---
+
+## 📫 İletişim
+
+Geliştirdiğim projelerle ilgileniyorsanız veya teknik konularda fikir alışverişinde bulunmak isterseniz bana aşağıdaki adreslerden ulaşabilirsiniz:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmanurakbas/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ftmnrakb8585)
+[![E-Posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ftmnrakb8585@gmail.com)
