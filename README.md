@@ -167,6 +167,8 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 > Son Medium yazılarım GitHub Actions ile otomatik olarak burada listelenecek.
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG mı Fine-Tuning mi? Gerçek Projelerde Hangisini Kullanmalıyız?](https://medium.com/@ftmnrakb8585/rag-m%C4%B1-fine-tuning-mi-ger%C3%A7ek-projelerde-hangisini-kullanmal%C4%B1y%C4%B1z-ce81aec0e429?source=rss-fd0381e5b104------2)
+- [Bir Backend Projesini Baştan Sona Dockerize Ettim: DevOps Dünyasına İlk Adımım](https://medium.com/@ftmnrakb8585/bir-backend-projesini-ba%C5%9Ftan-sona-dockerize-ettim-devops-d%C3%BCnyas%C4%B1na-i%CC%87lk-ad%C4%B1m%C4%B1m-4e6e3bb96598?source=rss-fd0381e5b104------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
