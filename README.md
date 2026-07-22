@@ -197,8 +197,18 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 # 🐍 Katkı Grafiğim
 
-> Snake Animation, GitHub Actions kurulumu tamamlandıktan sonra otomatik olarak burada görüntülenecek.
+<p align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
 ---
 
 <p align="center">
