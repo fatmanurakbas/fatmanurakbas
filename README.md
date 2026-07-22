@@ -1,210 +1,59 @@
-<h1 align="center">Merhaba, ben Fatma Nur Akbaş 👋</h1>
+# Merhaba, ben Fatma Nur Akbaş 👋
 
-<h3 align="center">
-Bilgisayar Mühendisi | Yapay Zekâ Geliştiricisi | Backend Developer
-</h3>
-
-<p align="center">
-Yapay zekâ, makine öğrenmesi ve backend geliştirme alanlarında kendimi geliştirmeye devam ediyor, gerçek problemlere çözüm üreten projeler geliştiriyorum.
-</p>
+İstanbul Sağlık ve Teknoloji Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Backend geliştirme, mikroservis mimarileri ve yapay zeka tabanlı sistemler üzerine çalışmalar yürütüyorum. Veri odaklı ve ölçeklenebilir sistemler tasarlamaya ve yeni teknolojileri öğrenmeye ilgi duyuyorum.
 
 ---
 
-## 👩‍💻 Hakkımda
+### 💻 Çalışma Alanlarım ve İlgi Alanlarım
 
-🎓 Bilgisayar Mühendisliği mezunuyum.
-
-💡 Özellikle **Yapay Zekâ**, **LLM (Large Language Models)**, **Retrieval-Augmented Generation (RAG)**, **Backend Geliştirme** ve **Mikroservis Mimarisi** üzerine çalışıyorum.
-
-🚀 Ölçeklenebilir backend sistemleri geliştirirken yapay zekâ teknolojilerini gerçek projelere entegre etmeyi seviyorum.
-
-📚 Medium'da yapay zekâ üzerine teknik içerikler üretiyor ve öğrendiklerimi paylaşmayı önemsiyorum.
+- **Backend Geliştirme:** ASP.NET Core ve Python (FastAPI/Django) ekosistemlerinde RESTful API tasarımı, mikroservis mimarileri ve veri tabanı yönetimi.
+- **Yapay Zeka ve Veri Bilimi:** RAG (Retrieval-Augmented Generation) sistemleri, bilgisayarlı görü (YOLOv8, görüntü işleme) ve açıklanabilir yapay zeka (SHAP) uygulamaları.
+- **Bulut ve Altyapı:** Uygulamaların Docker ile konteynerizasyonu, CI/CD süreçleri ve ilişkisel/ilişkisel olmayan (SQL Server, PostgreSQL, MongoDB, Qdrant) veri tabanları.
 
 ---
 
-# 🚀 İlgi Alanlarım
+### 🛠️ Teknolojiler ve Araçlar
 
-- 🤖 Yapay Zekâ
-- 🧠 Büyük Dil Modelleri (LLM)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🏥 Sağlık Alanında Yapay Zekâ
-- 📊 Makine Öğrenmesi
-- ⚙️ Backend Geliştirme
-- ☁️ Mikroservis Mimarisi
-- 🐳 Docker
-
----
-
-# 💻 Kullandığım Teknolojiler
-
-### Programlama Dilleri
-
-- Python
-- C#
-- Java
-- JavaScript
-- HTML & CSS
-
-### Backend
-
-- FastAPI
-- ASP.NET Core
-- REST API
-- Mikroservis Mimarisi
-- JWT Authentication
-
-### Veritabanları
-
-- PostgreSQL
-- SQL Server
-- MongoDB
-- Firebase
-- Qdrant
-
-### Yapay Zekâ
-
-- Scikit-Learn
-- TensorFlow
-- YOLOv8
-- OpenAI API
-- LangChain
-- LlamaIndex
-- SHAP
-- RAG
-
-### Araçlar
-
-- Docker
-- Git
-- GitHub
-- Postman
-- VS Code
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Programlama Dilleri** | Python, C#, Java, JavaScript, HTML/CSS |
+| **Backend Geliştirme** | ASP.NET Core, Flask, Django, RESTful API, Microservices, JWT, Dapper |
+| **Veri Tabanları & Araçlar** | SQL Server, PostgreSQL, MongoDB, Qdrant, Firebase, Docker, Postman, Git/GitHub |
+| **Yapay Zeka & Veri Bilimi** | Makine Öğrenmesi, RAG (LlamaIndex), Scikit-learn, TensorFlow, YOLOv8, SHAP, Veri Analizi |
+| **Yabancı Dil** | İngilizce (A2) |
 
 ---
 
-# 📌 Öne Çıkan Projeler
+### 🚀 Öne Çıkan Projelerim
 
-## 🏢 Yapay Zekâ Destekli KOBİ Teşvik ve Destek Sistemi
+#### 1. [Hibevia - Yapay Zeka Destekli KOBİ Teşvik & Destek Sistemi (Mezuniyet Projesi)](https://github.com/mihrinurilunt/tesvik_destek)
+- Resmi devlet teşvik belgelerini işleyen ve vektör veri tabanına (Qdrant) indeksleyen bir RAG (Retrieval-Augmented Generation) hattı tasarladım.
+- Kullanıcı sorularını sınıflandıran ve uygun teşvik programlarıyla eşleştirerek açıklama üreten yapay zeka motorunu geliştirdim.
+- **Teknolojiler:** Python, FastAPI, OpenAI, LlamaIndex, Qdrant, Docker, Git.
 
-Mikroservis mimarisi kullanılarak geliştirilen yapay zekâ destekli karar destek sistemi.
+#### 2. Klinik Karar Destek Sistemi
+- Laboratuvar ve demografik verileri analiz ederek MAFLD, siroz ve HCC risk tahminleri gerçekleştiren makine öğrenmesi modelleri eğittim.
+- Modellerin kararlarını daha anlaşılır kılmak için SHAP entegrasyonu sağladım ve LLM tabanlı bir klinik asistan ekledim.
+- **Teknolojiler:** Python, Scikit-learn, SHAP, LLM, Web Speech API, OCR.
 
-### Kullanılan Teknolojiler
-
-- Python
-- FastAPI
-- OpenAI
-- RAG
-- LlamaIndex
-- Qdrant
-- Docker
-
-### Özellikler
-
-- RAG Pipeline
-- Intent Detection
-- Belge İşleme Servisi
-- Semantic Search
-- Web Scraping
-- AI Destekli Teşvik Önerisi
+#### 3. [MultiShop - E-Ticaret Mikroservis Uygulaması](https://github.com/fatmanurakbas)
+- Ürün, kullanıcı ve sipariş yönetim süreçlerinin ayrı servisler olarak yönetildiği mikroservis mimarisine sahip bir backend sistemi kurdum.
+- PostgreSQL ve MongoDB kullanarak hibrit bir veri yapısı uyguladım ve tüm servisleri Docker üzerinde yapılandırdım.
+- **Teknolojiler:** .NET Core, Microservices, Docker, PostgreSQL, MongoDB, C#.
 
 ---
 
-## 🏥 HepDecide
+### 👥 Topluluk ve Gönüllülük
 
-Yapay zekâ destekli Klinik Karar Destek Sistemi.
-
-### Özellikler
-
-- Makine Öğrenmesi Modelleri
-- SHAP ile Açıklanabilir Yapay Zekâ
-- LLM Destekli Klinik Chatbot
-- OCR
-- Speech API
-- Medikal RAG Sistemi
+- **IEEE ISTUN Öğrenci Kolu:** 2024 - 2025 yılları arasında Başkan Yardımcılığı görevini üstlenerek teknik etkinliklerin organizasyonunda ve topluluk yönetiminde rol aldım.
+- **Öğrenci Mentorluğu:** Alt sınıf öğrencilerine yazılım projelerinde teknik rehberlik sağlayarak yazılım geliştirme süreçlerine adaptasyonlarına destek oldum.
 
 ---
 
-## 🛒 MultiShop Mikroservis Projesi
+### 📫 İletişim
 
-.NET tabanlı mikroservis mimarisi kullanılarak geliştirilen e-ticaret sistemi.
+Benimle projeler, iş birlikleri veya teknik konular üzerine iletişime geçmek isterseniz aşağıdaki kanallardan ulaşabilirsiniz:
 
-- Docker
-- PostgreSQL
-- MongoDB
-- REST API
-- Mikroservisler
-
----
-
-## 👕 Yapay Zekâ Destekli Kombin Öneri Sistemi
-
-Derin öğrenme tabanlı öneri sistemi.
-
-- TensorFlow
-- ResNet50
-- Streamlit
-- Bilgisayarlı Görü
-
----
-
-# 📚 Şu An Öğreniyorum
-
-- AI Agent Sistemleri
-- Multi-Agent Mimarileri
-- LangGraph
-- MCP
-- Gelişmiş RAG Sistemleri
-- Kubernetes
-- Azure AI
-
----
-
-# 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurakbas&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fatmanurakbas&theme=tokyonight)
-
----
-
-# ✍️ İçerik Ürettiğim Konular
-
-- Yapay Zekâ
-- LLM
-- RAG
-- Prompt Engineering
-- Makine Öğrenmesi
-- Backend Geliştirme
-- Mikroservis Mimarisi
-
----
-
-# 📫 Bana Ulaşın
-
-📧 **E-posta**
-
-ftmnrakb8585@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/fatmanurakbas
-
-✍️ **Medium**
-
-https://medium.com/@ftmnrakb8585
-
-💻 **GitHub**
-
-https://github.com/fatmanurakbas
-
----
-
-<div align="center">
-
-### 💙 Profilimi ziyaret ettiğiniz için teşekkür ederim.
-
-Yapay zekâ, backend geliştirme ve yazılım projeleri üzerine birlikte çalışmak veya iletişime geçmek isterseniz bana ulaşabilirsiniz. 🚀
-
-</div>
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/fatmanurakbas/)
+- 📝 [Medium Yazılarım](https://medium.com/@ftmnrakb8585)
+- 📧 [E-posta Gönder](mailto:ftmnrakb8585@gmail.com)
