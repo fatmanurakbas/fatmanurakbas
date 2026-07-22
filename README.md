@@ -195,7 +195,15 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 </p>
 
 ---
+# 🐍 Katkı Grafiğim
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
 <p align="center">
 
 ⭐ Profilimi ziyaret ettiğiniz için teşekkür ederim.
