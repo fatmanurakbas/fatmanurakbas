@@ -2,8 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Fatma%20Nur%20Akbaş&fontAlign=50&fontAlignY=38&fontSize=42&desc=AI%20Engineer%20|%20Backend%20Developer&descAlign=50&descAlignY=58"/>
 </p>
 
-<h1 align="center">Merhaba 👋 Ben Fatma Nur Akbaş</h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;LLM+Developer;RAG+Developer;Machine+Learning"/>
 </p>
