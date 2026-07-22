@@ -136,7 +136,7 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-# Şu Anda Öğreniyorum
+# 🎯 Şu Anda Öğreniyorum
 
 - AI Agents
 - Multi-Agent Systems
