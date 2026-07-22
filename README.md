@@ -150,6 +150,16 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/main/github-metrics.svg" width="100%"/>
+
+</p>
+
+---
+
 # 📈 GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatmanurakbas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
