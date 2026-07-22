@@ -5,7 +5,7 @@
 <h1 align="center">Merhaba 👋 Ben Fatma Nur Akbaş</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Yapay+Zekâ+Mühendisi;Backend+Developer;LLM+%7C+RAG+Developer;FastAPI+Developer;AI+for+Healthcare;Machine+Learning+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;LLM+Developer;RAG+Developer;Machine+Learning"/>
 </p>
 
 <p align="center">
