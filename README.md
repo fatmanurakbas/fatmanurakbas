@@ -189,6 +189,28 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
+## 📫 Connect with Me
+
+📧 **Email**
+
+ftmnrakb8585@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/fatmanurakbas
+
+✍️ **Medium**
+
+https://medium.com/@ftmnrakb8585
+
+🌐 **GitHub**
+
+https://github.com/fatmanurakbas
+
+---
+
+---
+
 # Katkı Grafiğim
 
 <p align="center">
