@@ -10,6 +10,26 @@
 Yapay Zeka, Büyük Dil Modelleri (LLM), RAG ve Backend Teknolojileri ile akıllı sistemler geliştiriyorum.
 
 </div>
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=fatmanurakbas&style=for-the-badge&color=blue)
+
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=fatmanurakbas&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Fatma'nın GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatmanurakbas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mongodb,firebase,tensorflow,git,github,vscode,linux,java,cs" />
+
+</p>
 
 ---
 
