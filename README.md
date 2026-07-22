@@ -168,21 +168,29 @@ https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 ## Connect With Me
 
 <p align="center">
+
+<a href="https://linkedin.com/in/fatmanurakbas" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
+</a>
+
+&nbsp;&nbsp;
+
 <a href="mailto:ftmnrakb8585@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=gmail" width="60" />
 </a>
-&nbsp;
-<a href="https://linkedin.com/in/fatmanurakbas">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+&nbsp;&nbsp;
+
+<a href="https://medium.com/@ftmnrakb8585" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium/ffffff" width="60" />
 </a>
-&nbsp;
-<a href="https://medium.com/@ftmnrakb8585">
-<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/fatmanurakbas" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="60" />
 </a>
-&nbsp;
-<a href="https://github.com/fatmanurakbas">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+
 </p>
 
 ---
