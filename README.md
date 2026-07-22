@@ -1,202 +1,235 @@
-# Merhaba 👋 Ben Fatma Nur Akbaş
-
-<div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Yapay+Zek%C3%A2+M%C3%BChendisi;Backend+Developer;LLM+%7C+RAG+%7C+FastAPI;Machine+Learning+Enthusiast;Open+Source+Lover" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Fatma%20Nur%20Akbaş&fontAlign=50&fontAlignY=38&fontSize=42&desc=AI%20Engineer%20|%20Backend%20Developer&descAlign=50&descAlignY=58"/>
 </p>
 
-### Bilgisayar Mühendisi | Yapay Zeka Mühendisi | Backend Geliştirici
-
-Yapay Zeka, Büyük Dil Modelleri (LLM), RAG ve Backend Teknolojileri ile akıllı sistemler geliştiriyorum.
-
-</div>
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=fatmanurakbas&style=for-the-badge&color=blue)
-
-</p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fatmanurakbas&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Fatma'nın GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatmanurakbas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h1 align="center">Merhaba 👋 Ben Fatma Nur Akbaş</h1>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Yapay+Zekâ+Mühendisi;Backend+Developer;LLM+%7C+RAG+Developer;FastAPI+Developer;AI+for+Healthcare;Machine+Learning+Engineer"/>
 </p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mongodb,firebase,tensorflow,git,github,vscode,linux,java,cs" />
+Yapay zekâ, makine öğrenmesi ve backend teknolojilerini kullanarak gerçek problemlere çözüm üreten akıllı sistemler geliştiriyorum.
 
 </p>
 
 ---
 
-## 👩‍💻 Hakkımda
+# 👩‍💻 Hakkımda
 
-🎓 Bilgisayar Mühendisi
+🎓 Bilgisayar Mühendisiyim.
 
-💻 Yapay Zeka, Makine Öğrenmesi ve Backend Geliştirme süreçlerine ilgi duyuyorum.
+🚀 Özellikle **LLM**, **RAG**, **Yapay Zekâ**, **Backend Geliştirme** ve **Mikroservis Mimarisi** üzerine çalışıyorum.
 
-FastAPI, Docker, LLM'ler ve Mikroservisler gibi modern teknolojileri kullanarak ölçeklenebilir backend sistemleri ve yapay zeka destekli uygulamalar geliştirmekten keyif alıyorum.
+💡 Ölçeklenebilir backend servisleri geliştirirken yapay zekâyı gerçek projelere entegre etmeyi seviyorum.
 
-Güncel çalışma ve ilgi alanlarım:
-
-- 🤖 Üretken Yapay Zeka (Generative AI)
-- 🧠 Büyük Dil Modelleri (LLMs)
-- 🔍 Alıntılama Destekli Üretim (RAG)
-- ⚕️ Sağlık Sektöründe Yapay Zeka (AI for Healthcare)
-- ☁️ Mikroservis Mimarisi
-- 📊 Makine Öğrenmesi
-- 🚀 Backend Geliştirme
+📝 Medium'da yapay zekâ ve yazılım teknolojileri üzerine teknik içerikler üreterek öğrendiklerimi paylaşmayı önemsiyorum.
 
 ---
 
-## 🛠 Teknolojiler ve Araçlar
+# 🚀 İlgi Alanlarım
 
-### Programlama Dilleri
-
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C#](https://skillicons.dev/icons?i=cs)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
----
-
-### Backend
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLM)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents
+- 🏥 AI for Healthcare
+- 📊 Machine Learning
+- ☁️ Microservice Architecture
+- ⚡ FastAPI
+- 🐳 Docker
 
 ---
 
-### Veri Tabanları
+# 🛠️ Teknolojiler
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,javascript,postgres,mongodb,firebase,docker,git,github,vscode,linux&perline=7"/>
 
-### Yapay Zeka / Makine Öğrenmesi
+</p>
 
-- Makine Öğrenmesi (Machine Learning)
-- Derin Öğrenme (Deep Learning)
-- TensorFlow / Keras
-- Scikit-Learn
-- YOLOv8
+### Yapay Zekâ & Veri Bilimi
+
 - OpenAI API
 - LlamaIndex
-- Qdrant Vektör Veri Tabanı
-- SHAP (Açıklanabilir Yapay Zeka)
-- RAG Pipelines (Retrieval-Augmented Generation)
+- LangChain
+- TensorFlow
+- Scikit-Learn
+- YOLOv8
+- SHAP (Explainable AI)
+- Qdrant Vector Database
+- RAG Pipelines
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
+# 🚀 Öne Çıkan Projeler
 
-### 🏢 Hibevia - Yapay Zeka Destekli Devlet Teşvik Öneri Sistemi
-Mikroservis mimarisi üzerine kurulu, yapay zeka destekli akıllı bir teşvik ve destek platformu.
+## 🏢 Hibevia
+### Yapay Zekâ Destekli Devlet Teşvik Öneri Sistemi
 
 **Teknolojiler**
-- FastAPI, Python, OpenAI, RAG, LlamaIndex, Qdrant, Docker
+
+`Python` • `FastAPI` • `OpenAI` • `RAG` • `LlamaIndex` • `Qdrant` • `Docker`
 
 **Öne Çıkan Özellikler**
-- **Niyet Tespiti (Intent Detection):** Kullanıcı taleplerini sınıflandırarak doğru yapay zeka iş akışına yönlendiren modül.
-- **Döküman İşleme Hattı (Document Ingestion Pipeline):** Resmi teşvik belgelerini işleyen, bölümlere ayıran (chunking) ve Qdrant üzerinde indeksleyen yapı.
-- **Semantik Arama:** Qdrant vektör veri tabanı entegrasyonu ile anlamsal döküman eşleştirme.
-- **Akıllı Teşvik Eşleştirme:** Uygun teşvik programlarını belirleyen ve RAG tabanlı gerekçeli açıklamalar üreten öneri motoru.
-- [🔗 Proje Raporu (PDF)](https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view?usp=sharing)
+
+- 🎯 Intent Detection
+- 📄 Document Ingestion Pipeline
+- 🔎 Semantic Search
+- 🤖 AI Destekli Teşvik Önerisi
+- ⚙️ Mikroservis Mimarisi
+
+📄 **Proje Raporu**
+
+https://drive.google.com/file/d/1wXBhe0S3_FaJQb4y9Sjf3jbSRO86gWwF/view
 
 ---
 
-### 🏥 HepDecide - Klinik Karar Destek Sistemi
-Açıklanabilir Yapay Zeka (XAI) ve Büyük Dil Modelleri ile güçlendirilmiş klinik karar destek uygulaması.
+## 🏥 HepDecide
+
+### Yapay Zekâ Destekli Klinik Karar Destek Sistemi
+
+**Teknolojiler**
+
+`Python` • `Machine Learning` • `SHAP` • `LLM` • `OCR` • `Web Speech API`
 
 **Öne Çıkan Özellikler**
-- **Risk Tahmini:** Laboratuvar bulguları ve demografik verileri kullanarak MAFLD, siroz ve HCC risklerini tahmin eden makine öğrenmesi modelleri.
-- **Açıklanabilir Yapay Zeka (XAI):** SHAP entegrasyonu ile model tahminlerini hekimler için doğrulanabilir kılma.
-- **Klinik Sohbet Robotu:** Tıbbi yönergelere ve sonuç analizine dayalı RAG tabanlı LLM asistanı.
-- **Veri Giriş Kolaylığı:** Sesli komut (Web Speech API) ve OCR (Optik Karakter Tanıma) entegrasyonları.
-- **Teknolojiler:** Python, ML, SHAP, LLM, Web Speech API, OCR
+
+- 📈 Risk Tahmini
+- 🧠 Explainable AI (SHAP)
+- 💬 LLM Destekli Klinik Asistan
+- 📄 OCR
+- 🎤 Speech API
+- 📚 Medikal RAG Sistemi
 
 ---
 
-### 🛒 MultiShop - Mikroservis Tabanlı E-Ticaret Sistemi
-.NET Core ve mikroservis mimarisi kullanılarak geliştirilmiş ölçeklenebilir e-ticaret backend sistemi.
+## 🛒 MultiShop
+
+### Mikroservis Tabanlı E-Ticaret Sistemi
+
+**Teknolojiler**
+
+`.NET Core` • `Docker` • `PostgreSQL` • `MongoDB` • `REST API`
 
 **Öne Çıkan Özellikler**
-- **Mikroservis Mimarisi:** Ürün, kullanıcı ve sipariş yönetim servislerinin bağımsız servisler olarak kurgulanması.
-- **Konteynerizasyon:** Docker ortamında servis yönetimi ve çevre tutarlılığı.
-- **Hibrit Veri Tabanı:** Projenin gereksinimlerine göre PostgreSQL ve MongoDB kullanımı.
-- **Teknolojiler:** .NET Core, Microservices, Docker, PostgreSQL, MongoDB, Postman, C#, REST API
+
+- Mikroservis Mimarisi
+- Docker Containerization
+- PostgreSQL & MongoDB
+- RESTful API
 
 ---
 
-### 👕 Yapay Zeka Destekli Kıyafet Öneri Sistemi
-ResNet50 derin öğrenme mimarisi kullanılarak geliştirilmiş görsel benzerlik tabanlı öneri sistemi.
+## 👕 Yapay Zekâ Destekli Kıyafet Öneri Sistemi
+
+**Teknolojiler**
+
+`TensorFlow` • `ResNet50` • `Streamlit` • `Scikit-Learn`
 
 **Öne Çıkan Özellikler**
-- **Derin Öğrenme Modeli:** Polyvore veri seti üzerinde eğitilmiş ResNet50 modeli ile görsel özellik çıkarımı.
-- **Öneri Motoru:** Benzer ürünleri analiz ederek kullanıcılara alternatif ve tamamlayıcı kombinler sunan yapı.
-- **Web Arayüzü:** Streamlit kullanılarak geliştirilmiş, gerçek zamanlı görsel yükleme ve test arayüzü.
-- **Teknolojiler:** Python, TensorFlow, Keras, ResNet50, Streamlit, Scikit-learn
+
+- Görsel Benzerlik Analizi
+- Derin Öğrenme
+- Gerçek Zamanlı Öneri Sistemi
 
 ---
 
-## 📚 Şu Anda Öğrendiklerim
+# 🌱 Şu Anda Öğreniyorum
 
-- Yapay Zeka Ajanları (AI Agents) & Çoklu Ajan Sistemleri (Multi-Agent Systems)
-- LangGraph ve MCP (Model Context Protocol)
-- İleri Düzey RAG Teknikleri (Advanced RAG)
-- Kubernetes & Azure AI
-
----
-
-## 📈 GitHub İstatistikleri
-
-![](https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurakbas&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=fatmanurakbas&theme=tokyonight)
+- AI Agents
+- Multi-Agent Systems
+- LangGraph
+- MCP (Model Context Protocol)
+- Advanced RAG
+- Kubernetes
+- Azure AI
 
 ---
 
-## ✍️ Güncel İlgi Alanlarım
+# 📊 GitHub İstatistikleri
 
-- Yapay Zeka ve Makine Öğrenmesi Uygulamaları
-- LLM (Büyük Dil Modeli) Tabanlı Uygulama Geliştirme
-- RAG (Retrieval-Augmented Generation) Sistemleri
-- Açıklanabilir Yapay Zeka (Explainable AI)
-- Sağlık Sektöründe Yapay Zeka Çözümleri
-- Backend ve Mikroservis Mühendisliği
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatmanurakbas&show_icons=true&theme=tokyonight"/>
 
-## 📫 Benimle İletişime Geçin
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurakbas&layout=compact&theme=tokyonight"/>
 
-📧 **E-posta**
-[ftmnrakb8585@gmail.com](mailto:ftmnrakb8585@gmail.com)
+</p>
 
-💼 **LinkedIn**
-[linkedin.com/in/fatmanurakbas](https://linkedin.com/in/fatmanurakbas)
+<p align="center">
 
-✍ Cordial **Medium**
-[medium.com/@ftmnrakb8585](https://medium.com/@ftmnrakb8585)
+<img src="https://streak-stats.demolab.com?user=fatmanurakbas&theme=tokyonight"/>
 
-🌐 **GitHub**
-[github.com/fatmanurakbas](https://github.com/fatmanurakbas)
+</p>
 
 ---
 
-<div align="center">
+# 📈 GitHub Activity
 
-### Profilimi ziyaret ettiğiniz için teşekkür ederim! ⭐
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatmanurakbas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Birlikte akıllı sistemler inşa edelim 🚀
+---
 
-</div>
+# 🏆 GitHub Başarıları
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fatmanurakbas&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📝 Son Medium Yazılarım
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 📫 Benimle İletişime Geçin
+
+<p align="center">
+
+<a href="mailto:ftmnrakb8585@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/fatmanurakbas">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@ftmnrakb8585">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fatmanurakbas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Katkı Grafiğim
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/fatmanurakbas/fatmanurakbas/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Profilimi ziyaret ettiğiniz için teşekkür ederim.
+
+Yapay zekâ, backend geliştirme ve açık kaynak projeleri üzerine çalışmayı ve üretmeyi seviyorum.
+
+Birlikte harika projeler geliştirebiliriz. 🚀
+
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=gradient"/>
+</p>
